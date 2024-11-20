@@ -1,5 +1,11 @@
 # Terraform Provider Astro
 
+<div align="center">
+    <p>Programatically control Astro through an API.</p>
+    <a href="https://reference.astro.com/reference/getting-started"><img src="https://img.shields.io/static/v1?label=Docs&message=API Ref&color=000000&style=for-the-badge" /></a>
+    <a href="https://registry.terraform.io/providers/astronomer/astro/latest/docs"><img src="https://img.shields.io/static/v1?label=Docs&message=terraform-provider-astro&color=000000&style=for-the-badge" /></a>
+</div>
+
 ## Requirements
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.7
