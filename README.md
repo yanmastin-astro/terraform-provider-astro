@@ -2,7 +2,7 @@
 
 <div align="center">
     <picture>
-        <img src="https://github.com/user-attachments/assets/22586f12-3871-4bb6-8ead-40bec82ec3ce" width="500">
+        <img src="https://github.com/user-attachments/assets/22586f12-3871-4bb6-8ead-40bec82ec3ce" width="300">
     </picture>
     <p>Programatically control Astro through an API.</p>
     <a href="https://reference.astro.com/reference/getting-started"><img src="https://img.shields.io/static/v1?label=Docs&message=API Ref&color=000000&style=for-the-badge" /></a>
