@@ -4,14 +4,14 @@
     <picture>
         <img src="https://github.com/user-attachments/assets/22586f12-3871-4bb6-8ead-40bec82ec3ce" width="260">
     </picture>
-    <p>Programatically control Astro through an API.</p>
+    <p>Official Astro Terraform Provider to automate, scale, and manage your Astro infrastructure.</p>
     <a href="https://astronomer.docs.buildwithfern.com/docs/api/overview"><img src="https://img.shields.io/static/v1?label=Docs&message=API Ref&color=000000&style=for-the-badge" /></a>
     <a href="https://registry.terraform.io/providers/astronomer/astro/latest/docs"><img src="https://img.shields.io/static/v1?label=Docs&message=terraform-provider-astro&color=000000&style=for-the-badge" /></a>
 </div>
 
 
 ## Using the provider
-1. Create an [API Token](https://docs.astronomer.io/astro/automation-authentication#step-1-create-an-api-token) to use in the provider. We recommend creating an organization API token since it is the most flexible but the type of your API token will depend on your use case.
+1. Create an [API Token](https://docs.astronomer.io/astro/automation-authentication#step-1-create-an-api-token) to use in the provider. Astronomer recommends creating an organization API token since it is the most flexible but the type of your API token will depend on your use case.
 2. Create a `main.tf` file with the following content:
 ```terraform
 terraform {
