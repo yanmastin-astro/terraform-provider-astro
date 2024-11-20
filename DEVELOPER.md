@@ -32,7 +32,7 @@ Then commit the changes to `go.mod` and `go.sum`.
 
 ## Developing the Provider
 
-If you wish to work on the provider, you'll first need [Go](http://www.golang.org) installed on your machine (see [Requirements](#requirements) above).
+If you wish to work on the provider, you'll first need [Go](http://www.golang.org) installed on your machine (see [Requirements](#developer-requirements) above).
 
 To compile the provider, see [Building The Provider](#building-the-provider).
 
@@ -52,3 +52,4 @@ provider_installation {
 ## Contributing to the Provider's Development
 
 Submit pull requests, report issues, or suggest improvements on the GitHub repository.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
