@@ -2,7 +2,7 @@
 
 <div align="center">
     <picture>
-        <img src="https://github.com/user-attachments/assets/22586f12-3871-4bb6-8ead-40bec82ec3ce" width="260">
+        <img src="https://github.com/user-attachments/assets/22586f12-3871-4bb6-8ead-40bec82ec3ce" width="200">
     </picture>
     <p>Official Astro Terraform Provider to automate, scale, and manage your Astro infrastructure through an API.</p>
     <a href="https://registry.terraform.io/providers/astronomer/astro/latest/docs"><img src="https://img.shields.io/static/v1?label=Docs&message=terraform-provider-astro&color=000000&style=for-the-badge" /></a>
