@@ -6,7 +6,7 @@
     </picture>
     <p>Official Astro Terraform Provider to automate, scale, and manage your Astro infrastructure through an API.</p>
     <a href="https://registry.terraform.io/providers/astronomer/astro/latest/docs"><img src="https://img.shields.io/static/v1?label=Docs&labelColor=0F0C27&message=terraform-provider-astro&color=4E408D&style=for-the-badge" /></a>
-    <a href="https://astronomer.docs.buildwithfern.com/docs/api/overview"><img src="https://img.shields.io/static/v1?label=Docs&message=API Ref&color=4E408D&style=for-the-badge" /></a>
+    <a href="https://astronomer.docs.buildwithfern.com/docs/api/overview"><img src="https://img.shields.io/static/v1?label=Docs&labelColor=0F0C27&message=API Ref&color=4E408D&style=for-the-badge" /></a>
 </div>
 
 
